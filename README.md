@@ -55,12 +55,12 @@
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&hide_border=true&border_radius=15" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&hide_border=true&border_radius=15" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aya-code10&show_icons=true&theme=radical&hide_border=true&border_radius=15" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aya-code10&layout=compact&theme=radical&hide_border=true&border_radius=15" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=radical&hide_border=true&border_radius=15" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=aya-code10&theme=radical&hide_border=true&border_radius=15" height="160"/>
 </p>
 
 ---
@@ -68,7 +68,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/YOUR-USERNAME/YOUR-USERNAME/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/YOUR-USERNAME/aya-code10/blob/output/github-contribution-grid-snake.svg" />
 </p>
 ---
 
