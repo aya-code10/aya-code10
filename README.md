@@ -1,14 +1,14 @@
 <h1 align="center">Hi👋,I'm Aya Mohamed</h1>
 
-<h3 align="center">
-  <span style="color:#4CAF50;">Information Systems Engineer</span> |
-  <span style="color:#2196F3;">Full Stack Developer</span> |
-  <span style="color:#FF9800;">Backend Enthusiast</span>
-</h3>
-
----
-
-<h3 align="center">📫 Connect with me</h3>
+<h5 align="center">
+  <sub>
+    <b>
+      <span style="color:#6C63FF;">Information Systems Engineer</span> |
+      <span style="color:#00A8E8;">Full Stack Developer</span> |
+      <span style="color:#F59E0B;">Backend Enthusiast</span>
+    </b>
+  </sub>
+</h5>
 
 <p align="center">
   <a href="PUT-YOUR-LINK">
