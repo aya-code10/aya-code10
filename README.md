@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋,I'm Aya Mohamed</h1>
 
-<h5 align="center">
+<h4 align="center">
   <sub>
     <b>
       <span style="color:#6C63FF;">Information Systems Engineer</span> |
@@ -8,7 +8,7 @@
       <span style="color:#F59E0B;">Backend Enthusiast</span>
     </b>
   </sub>
-</h5>
+</h4>
 
 <p align="center">
   <a href="PUT-YOUR-LINK">
@@ -50,7 +50,26 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+---
 
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&hide_border=true&border_radius=15" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&hide_border=true&border_radius=15" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=radical&hide_border=true&border_radius=15" height="160"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/YOUR-USERNAME/YOUR-USERNAME/blob/output/github-contribution-grid-snake.svg" />
+</p>
 ---
 
 ## 📌 Featured Projects
