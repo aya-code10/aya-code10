@@ -1,6 +1,10 @@
-<h1 align="center">Hi , I'm Aya Mohamed</h1>
+<h1 align="center">Hi👋,I'm Aya Mohamed</h1>
 
-<h3 align="center">💻 Information Systems Engineering Student | Full Stack Developer | Backend Enthusiast</h3>
+<h3 align="center">
+  <span style="color:#4CAF50;">Information Systems Engineer</span> |
+  <span style="color:#2196F3;">Full Stack Developer</span> |
+  <span style="color:#FF9800;">Backend Enthusiast</span>
+</h3>
 
 ---
 
@@ -20,8 +24,8 @@
 ## 🚀 About Me
 
 🎓 I'm a 3rd year Information Systems Engineering student  
-💻 Passionate about both frontend and backend development and building information systems  
-⚙️ I enjoy working with complex systems and solving real-time problems  
+💻 Passionate about both frontend and backend development and solving information systems problems
+⚙️ I enjoy working with complex systems and building real-time solutions
 🌐 Love building full-stack applications and AI-based applications  
 
 ---
@@ -67,10 +71,10 @@ Full-stack system using Java and MySQL
 
 ## 🎯 Goals
 
-- Become a strong Backend Developer  
+- Become a strong systems Engineer and Backend Developer  
 - Build scalable production-level systems  
-- Gain real-world experience  
+- Gain real-world experience 
 
 ---
 
-⭐ Always learning, always building
+ Always learning, always building
