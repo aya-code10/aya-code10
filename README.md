@@ -1,22 +1,28 @@
-# Hi 👋, I'm Aya
+<h1 align="center">Hi , I'm Aya Mohamed</h1>
 
-### 💻 Information Systems Engineering Student | Full Stack Developer | Backend Enthusiast
+<h3 align="center">💻 Information Systems Engineering Student | Full Stack Developer | Backend Enthusiast</h3>
 
 ---
 
-## 📫 Connect with me
+<h3 align="center">📫 Connect with me</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](PUT-YOUR-LINK)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:PUT-YOUR-EMAIL)
+<p align="center">
+  <a href="PUT-YOUR-LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:PUT-YOUR-EMAIL">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
 🎓 I'm a 3rd year Information Systems Engineering student  
-💻 Passionate about both frontend and backend development and dealing with information systems 
-⚙️ I enjoy working with complex systems and solving realtima problems
-🌐 Love building full-stack applications and AI based applications
+💻 Passionate about both frontend and backend development and building information systems  
+⚙️ I enjoy working with complex systems and solving real-time problems  
+🌐 Love building full-stack applications and AI-based applications  
 
 ---
 
@@ -38,3 +44,33 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Backend System
+Production-style backend built with Node.js, Express, and MongoDB  
+✔ Authentication (JWT)  
+✔ REST APIs  
+✔ CRUD operations  
+
+---
+
+### 🔹 Bistro Restaurant Management System
+Full-stack system using Java and MySQL  
+✔ Client-server architecture  
+✔ DAO pattern  
+✔ Role-based access  
+
+---
+
+## 🎯 Goals
+
+- Become a strong Backend Developer  
+- Build scalable production-level systems  
+- Gain real-world experience  
+
+---
+
+⭐ Always learning, always building
