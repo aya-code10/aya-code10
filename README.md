@@ -23,10 +23,12 @@
 
 ## 🚀 About Me
 
-🎓 I'm a 3rd year Information Systems Engineering student  
-💻 Passionate about both frontend and backend development and solving information systems problems
-⚙️ I enjoy working with complex systems and building real-time solutions
-🌐 Love building full-stack applications and AI-based applications  
+<p>
+🎓 I'm a 3rd year Information Systems Engineering student <br>
+💻 Passionate about both frontend and backend development and solving information systems problems <br>
+⚙️ I enjoy working with complex systems and building real-time solutions <br>
+🌐 Love building full-stack applications and AI-based applications
+</p>
 
 ---
 
